@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-21T01:57:08" hostname="heochang-us-MacBook-Air.local" time="0.011">
+  <properties/>
+  <testcase name="test1" classname="jrails.ModelTest" time="0.01"/>
+  <testcase name="test2" classname="jrails.ModelTest" time="0.0"/>
+  <system-out><![CDATA[added ID: 1
+added ID: 2
+1
+2
+Total models: 2
+added ID: 3
+1
+2
+3
+Total models: 3
+recorded ID: 1 destroyed
+3
+Total models: 1
+Size: 1
+added ID: 4
+3
+4
+Total models: 2
+Size: 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
